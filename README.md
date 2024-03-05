@@ -1,11 +1,20 @@
-# Olá! Eu sou Pedro Paulo! 🫡
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=2000&color=AFE111FF&center=true&random=false&width=600&height=100&lines=Prazer%2C+meu+nome+%C3%A9+Pedro+Paulo!;Bem+vindo+ao+meu+perfil!!" alt="Typing SVG" />
+  </a>
+</p>
 
 <h2 align="center">👾 Sobre mim: 👾</h2>
 
-- 🌱 Estou aprendendo Front-End e C++!
-- 😄 Pronomes: Ele/Dele.
-- ⚔️ Fun fact: Fã de Souls-Likes!
+<div align="center">
+  🟢🟡 Brasileiro 🟡🟢
+  <br>
+  🌱 Estou aprendendo Front-End, C++ e C#! 🌱
+  <br>
+  😄 Pronomes: Ele/Dele. 😄
+  <br>
+  ⚔️ Fã de Souls-Likes! ⚔️
+</div>
 <br>
 
 <h2 align="center">⭐ GitHub Status ⭐</h2>
@@ -31,7 +40,7 @@
 
 ##
 
+<img align="right" height=75 width=75 src="https://media.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif">
+
 > [!IMPORTANT]
 > Persistir e não desistir!
-
-
