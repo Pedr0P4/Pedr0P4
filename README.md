@@ -1,10 +1,14 @@
 # Olá! Eu sou Pedro Paulo! 🫡
+<br>
+
+<h2 align="center">👾 Sobre mim: 👾</h2>
 
 - 🌱 Estou aprendendo Front-End e C++!
 - 😄 Pronomes: Ele/Dele.
 - ⚔️ Fun fact: Fã de Souls-Likes!
+<br>
 
-##
+<h2 align="center">⭐ GitHub Status ⭐</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroP4&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=default&custom_title=Status+do+meu+GitHub&card_width=475" />
@@ -12,8 +16,11 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=100 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0P4&hide_progress=true&theme=merko&bg_color=00000000&hide_border=true&layout=compact" />
 </a>
+<br>
 
-<div>
+<h2 align="center">📖 Linguagens de Programação 📖</h2>
+
+<div align="center">
   <img align="center" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
