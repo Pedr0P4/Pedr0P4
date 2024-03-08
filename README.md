@@ -15,7 +15,7 @@
   <br>
   😄 Pronomes: Ele/Dele. 😄
   <br>
-  ⚔️ Fã de Souls-Likes! ⚔️
+  ⚔️ Fã de Dark Souls (todos) e Elden Ring! ⚔️
 </div>
 <br>
 
