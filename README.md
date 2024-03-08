@@ -16,6 +16,8 @@
   😄 Pronomes: Ele/Dele. 😄
   <br>
   ⚔️ Fã de Dark Souls (todos) e Elden Ring! ⚔️
+  <br>
+  ✍️ Graduando em Tecnologia da Informação na UFRN ✍️
 </div>
 <br>
 
