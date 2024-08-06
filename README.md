@@ -11,7 +11,7 @@
 <div align="center">
   🟢🟡 Brasileiro 🟡🟢
   <br>
-  🌱 Estou aprendendo C++ e C#! 🌱
+  🌱 Estou aprendendo C++! 🌱
   <br>
   😄 Pronomes: Ele/Dele. 😄
   <br>
