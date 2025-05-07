@@ -11,9 +11,7 @@
 <div align="center">
   🟢🟡 Brasileiro 🟡🟢
   <br>
-  🌱 Estou aprendendo C++! 🌱
-  <br>
-  😄 Pronomes: Ele/Dele. 😄
+  🌱 Estou aprendendo backend! 🌱
   <br>
   ⚔️ Fã de Dark Souls (todos) e Elden Ring! ⚔️
   <br>
@@ -38,9 +36,24 @@
 
 <!-- Imagens das linguagens de programação que estou estudando/usando -->
 <div align="center">
-  <img align="center" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
+
+<!-- header 4 -->
+<h2 align="center">⚙️ Game Engines ⚙️</h2>
+
+<!-- Imagens das engines que estou estudando/usando -->
+<div align="center">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img height=50 src="https://static-00.iconduck.com/assets.00/file-type-gamemaker2-icon-2048x2048-hc6crudk.png" />
 </div>
 
 ##
