@@ -19,47 +19,25 @@
 </div>
 <br>
 
-<!-- header 2 -->
-<h2 align="center">⭐ GitHub Status ⭐</h2>
-
-<!-- GitHub Status e Most Languages com suas devidas alterações -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedr0P4&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=default&custom_title=Status+do+meu+GitHub&card_width=475" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0P4&layout=donut&theme=merko&hide_border=true&bg_color=00000000&locale=pt-br" />
-</a>
-<br>
-
 <!-- header 3 -->
-<h2 align="center">📖 Linguagens e Ferramentas 📖</h2>
+<h2 align="center">📖 Programação 📖</h2>
 
 <!-- Imagens das linguagens de programação que estou estudando/usando -->
-<div align="center">
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,js,ts,cs,spring,symfony,dotnet,nextjs,react,tailwind,docker,mysql,postgres" />
+  </a>
+</p>
 
 <!-- header 4 -->
-<h2 align="center">⚙️ Game Engines ⚙️</h2>
+<h2 align="center">⚙️ Game Engines e Ferramentas ⚙️</h2>
 
 <!-- Imagens das engines que estou estudando/usando -->
-<div align="center">
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,unity,gamemakerstudio,blender" />
+  </a>
+</p>
 
 ##
 
